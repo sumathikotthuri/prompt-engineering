@@ -48,6 +48,12 @@ work towards improving job satisfaction across all departments.
 """
 
 
+topic_list = [
+    "nasa", "local government", "engineering", 
+    "employee satisfaction", "federal government"
+]
+
+
 prompt = f"""
 Determine whether each item in the following list of \
 topics is a topic in the text below, which
