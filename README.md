@@ -6,9 +6,11 @@ Create a file named config.env in project folder i.e prompt-engineering folder.
 
 In config.env, you have to include below line.
 
-OPENAI_API_KEY=<your-open-ai-key>
+OPENAI_API_KEY=YOUR_OPEN-AI-KEY
   
- <your-open-ai-key>  has to be replaced with a key generated at https://platform.openai.com/account/api-keys
+YOUR_OPEN-AI-KEY  has to be replaced with a key generated at https://platform.openai.com/account/api-keys
+
+Once key is included, you can run each file to see the prompts results.
    
    
 
